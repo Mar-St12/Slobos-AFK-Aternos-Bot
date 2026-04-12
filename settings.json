@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheSMP-LhRy.aternos.me:35456",
+    "ip": "TheSMP-LhRy.aternos.me",
     "port": 35456,
     "version": "1.21.1",
     "try-creative": false
